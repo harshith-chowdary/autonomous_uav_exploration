@@ -1,5 +1,4 @@
 # multi_sensor_loclization_and_mapping
- It is the course work of [localization and mapping based on mutiple sensor fusion](https://www.shenlanxueyuan.com/course/558). Most of the codes are written by the tutors [Qian Ren] and [Yao Ge].
  
  It consists of :
  
